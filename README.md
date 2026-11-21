@@ -15,18 +15,21 @@ hoje com clientes reais pagando por assinatura.
 
 ## Projetos
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| **[AURA Marketplace](https://auragg.com.br)** | Marketplace de contas e itens de jogos: carrinho multi-vendedor, pagamento via Pix, painel do vendedor e área administrativa. Deploy próprio em VPS. | Next.js · TypeScript · Supabase · PostgreSQL · Docker |
-| **Portal Elevato — BI Vendedores** | Dashboard de vendas com filtros cruzados e permissão por perfil, sobre uma arquitetura de dois bancos PostgreSQL (data warehouse analítico separado do operacional). | Python · FastAPI · React · TanStack Query · PostgreSQL |
-| **LMS corporativo** | Plataforma de treinamento em uso por cliente com ~300 colaboradores, com streaming de vídeo. | Next.js · Supabase · Mux |
-| **Arena Sports POA** | Reserva e gestão de quadras esportivas, com um pipeline que detecta gols automaticamente nas gravações das partidas. | JavaScript · Claude Vision API · FFmpeg |
-| **[Óticas Relux](https://github.com/braga0013/oticas-relux)** | E-commerce de ótica integrado à API de frete do Melhor Envio. | JavaScript · Melhor Envio API |
-| **[SFTFC](https://github.com/braga0013/SFTFC)** | App de futsal publicado na **Apple App Store**. | TypeScript · React Native |
-| **[Bragax](https://github.com/braga0013/bragax)** | Site da minha marca de software. | React · TypeScript · Vite |
+| Projeto | O que é | Stack | |
+|---|---|---|---|
+| **AURA Marketplace** | Marketplace de contas e itens de jogos: carrinho multi-vendedor, pagamento via Pix, painel do vendedor e área administrativa. Infra própria em VPS. | Next.js · TypeScript · Supabase · PostgreSQL · Docker | [▶ ao vivo](https://auragg.com.br) |
+| **Portal Elevato — BI Vendedores** | Dashboard de vendas com filtros cruzados e permissão por perfil, sobre uma arquitetura de dois bancos PostgreSQL (data warehouse analítico separado do operacional). | Python · FastAPI · React · TanStack Query · PostgreSQL | *interno* |
+| **OpenRH** | Sistema de gestão de RH. | Next.js · JavaScript · PostgreSQL | [▶ ao vivo](https://open-rh.vercel.app) |
+| **MIRA** | E-commerce de óculos. | Next.js · TypeScript | [▶ ao vivo](https://mira-psi-nine.vercel.app) |
+| **Arena Sports POA** | Reserva e gestão de quadras esportivas, com um pipeline que detecta gols automaticamente nas gravações das partidas. | JavaScript · Claude Vision API · FFmpeg | [▶ ao vivo](https://quadra-padrao.vercel.app) |
+| **Óticas Relux** | E-commerce de ótica integrado à API de frete do Melhor Envio. | JavaScript · Melhor Envio API | [▶ ao vivo](https://oticas-relux.vercel.app) · [código](https://github.com/braga0013/oticas-relux) |
+| **Financial Center** | Plataforma de visualização de dados financeiros. | React · TypeScript | [▶ ao vivo](https://financial-center-beta.vercel.app) |
+| **LMS corporativo** | Plataforma de treinamento em uso por cliente com ~300 colaboradores, com streaming de vídeo. | Next.js · Supabase · Mux | *privado* |
+| **SFTFC** | App de futsal publicado na **Apple App Store**. | TypeScript · React Native | [código](https://github.com/braga0013/SFTFC) |
+| **Bragax Tech** | Site da minha marca de software. | React · TypeScript · Vite | [▶ ao vivo](https://bragaxtech.com.br) |
 
-> Projetos de clientes ficam em repositório privado. Posso mostrar código e
-> arquitetura em entrevista — só pedir.
+> Os projetos de cliente têm o código em repositório privado, mas estão no ar e
+> podem ser abertos acima. Mostro código e arquitetura em entrevista — só pedir.
 
 ---
 
