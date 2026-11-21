@@ -17,7 +17,7 @@ hoje com clientes reais pagando por assinatura.
 
 | Projeto | O que é | Stack | |
 |---|---|---|---|
-| **AURA Marketplace** | Marketplace de contas e itens de jogos: carrinho multi-vendedor, pagamento via Pix, painel do vendedor e área administrativa. Infra própria em VPS. | Next.js · TypeScript · Supabase · PostgreSQL · Docker | [▶ ao vivo](https://auragg.com.br) |
+| **AURA Marketplace** | Marketplace de contas e itens de jogos: carrinho multi-vendedor, pagamento via Pix, painel do vendedor e área administrativa. Construí a plataforma e a infra em VPS; hoje é tocada pelo cliente. | Next.js · TypeScript · Supabase · PostgreSQL · Docker | *entregue* |
 | **Portal Elevato — BI Vendedores** | Dashboard de vendas com filtros cruzados e permissão por perfil, sobre uma arquitetura de dois bancos PostgreSQL (data warehouse analítico separado do operacional). | Python · FastAPI · React · TanStack Query · PostgreSQL | *interno* |
 | **OpenRH** | Sistema de gestão de RH. | Next.js · JavaScript · PostgreSQL | [▶ ao vivo](https://open-rh.vercel.app) |
 | **MIRA** | E-commerce de óculos. | Next.js · TypeScript | [▶ ao vivo](https://mira-psi-nine.vercel.app) |
