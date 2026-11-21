@@ -25,7 +25,7 @@ hoje com clientes reais pagando por assinatura.
 | **Óticas Relux** | E-commerce de ótica integrado à API de frete do Melhor Envio. | JavaScript · Melhor Envio API | [▶ ao vivo](https://oticas-relux.vercel.app) · [código](https://github.com/braga0013/oticas-relux) |
 | **Financial Center** | Plataforma de visualização de dados financeiros. | React · TypeScript | [▶ ao vivo](https://financial-center-beta.vercel.app) |
 | **LMS corporativo** | Plataforma de treinamento em uso por cliente com ~300 colaboradores, com streaming de vídeo. | Next.js · Supabase · Mux | *privado* |
-| **SFTFC** | App de futsal publicado na **Apple App Store**. | TypeScript · React Native | [código](https://github.com/braga0013/SFTFC) |
+| **SFTFC** | App de futsal para iOS — passou pela revisão e foi publicado na **Apple App Store** (hoje fora da loja). | TypeScript · React Native | [código](https://github.com/braga0013/SFTFC) |
 | **Bragax Tech** | Site da minha marca de software. | React · TypeScript · Vite | [▶ ao vivo](https://bragaxtech.com.br) |
 
 > Os projetos de cliente têm o código em repositório privado, mas estão no ar e
