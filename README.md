@@ -19,11 +19,11 @@ hoje com clientes reais pagando por assinatura.
 |---|---|---|
 | **[AURA Marketplace](https://auragg.com.br)** | Marketplace de contas e itens de jogos: carrinho multi-vendedor, pagamento via Pix, painel do vendedor e área administrativa. Deploy próprio em VPS. | Next.js · TypeScript · Supabase · PostgreSQL · Docker |
 | **Portal Elevato — BI Vendedores** | Dashboard de vendas com filtros cruzados e permissão por perfil, sobre uma arquitetura de dois bancos PostgreSQL (data warehouse analítico separado do operacional). | Python · FastAPI · React · TanStack Query · PostgreSQL |
-| **[LMS Training](https://lmstraining.com.br)** | Plataforma de treinamento corporativo em uso por cliente com ~300 colaboradores, com streaming de vídeo. | Next.js · Supabase · Mux |
+| **LMS corporativo** | Plataforma de treinamento em uso por cliente com ~300 colaboradores, com streaming de vídeo. | Next.js · Supabase · Mux |
 | **Arena Sports POA** | Reserva e gestão de quadras esportivas, com um pipeline que detecta gols automaticamente nas gravações das partidas. | JavaScript · Claude Vision API · FFmpeg |
 | **[Óticas Relux](https://github.com/braga0013/oticas-relux)** | E-commerce de ótica integrado à API de frete do Melhor Envio. | JavaScript · Melhor Envio API |
 | **[SFTFC](https://github.com/braga0013/SFTFC)** | App de futsal publicado na **Apple App Store**. | TypeScript · React Native |
-| **[Bragax](https://bragax.com.br)** | Site da minha marca de software. | Next.js · TypeScript |
+| **[Bragax](https://github.com/braga0013/bragax)** | Site da minha marca de software. | React · TypeScript · Vite |
 
 > Projetos de clientes ficam em repositório privado. Posso mostrar código e
 > arquitetura em entrevista — só pedir.
